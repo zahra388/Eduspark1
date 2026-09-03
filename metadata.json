@@ -1,0 +1,6 @@
+{
+  "name": "EduSpark",
+  "description": "AI-powered adaptive learning companion with AI Learning Twin, smart tutor, notes-to-course generator, mistake analyzer, offline syncing, and career roadmap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
